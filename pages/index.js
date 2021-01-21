@@ -21,7 +21,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Ich bin Samed, 22 Jahre jung. In meiner Freizeit häng ich gerne mit meinen Kollegen ab und zocke auch gerne gute Games alá Sekiro & Dark Souls]</p>
+        <p>Ich bin Samed, 22 Jahre jung. In meiner Freizeit häng ich gerne mit meinen Kollegen ab und zocke auch gerne gute Games alá Sekiro & Dark Souls</p>
         
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
